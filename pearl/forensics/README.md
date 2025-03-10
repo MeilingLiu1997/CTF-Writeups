@@ -13,6 +13,7 @@
 
 ### oxmagic
 ![alt text](magic0.png)
+auther: aV9sb3ZlX3Jvc2U= ==> 'i_love_rose'
 1. stego image, nothing :x:
 2. steghide extract -sf chall.jpg, got a flag.txt
 ![alt text](magic2.png)
