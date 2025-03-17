@@ -3,6 +3,7 @@
 [picoCTF 2025](https://play.picoctf.org/practice?originalEvent=74&page=1)
 
 
+![alt text](0.png)
 ![alt text](1.png)
 
 ## Methology

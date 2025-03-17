@@ -1,7 +1,8 @@
-# crypt/EVEN RSA CAN BE BROKEN???
+# crypt/hashcrack
 
 [picoCTF 2025](https://play.picoctf.org/practice?originalEvent=74&page=1)
 
+![alt text](0.png)
 
 ## Methology
 1. OSINT is faster
